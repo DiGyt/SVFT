@@ -1,0 +1,23 @@
+{
+    "StimSize": 1.0,
+    "StimBright": 10.0,
+    "FixSize": 6.0,
+    "FixBright": 10.0,
+    "BackBright": 1.0,
+    "CamPosX": 0.0,
+    "CamPosY": 0.0,
+    "CamPosZ": -0.675000011920929,
+    "TrainTime": 60.0,
+    "StimTime": 1.0,
+    "PauseTime": 0.5,
+    "PauseRandRange": 0.0,
+    "FixChangePeriod": 3.1415998935699465,
+    "FixChangeRandRange": 0.0,
+    "MoveToRef": 10.0,
+    "MoveFromRef": 5.0,
+    "MaxOutline": 15.0,
+	"ShuffleCoords": false,
+    "SaveProgress": false,
+    "SaveAfterPeriod": 30.0,
+    "NSession": 0
+}
